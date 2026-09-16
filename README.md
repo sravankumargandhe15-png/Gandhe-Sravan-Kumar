@@ -1,6 +1,5 @@
 ### 🐍 My Contributions
 
-![Snake animation](https://raw.githubusercontent.com/sravankumargandhe15-png/Gandhe-Sravan-Kumar/output/github-snake.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sravankumargandhe15-png/Gandhe-Sravan-Kumar/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sravankumargandhe15-png/Gandhe-Sravan-Kumar/output/github-snake.svg">
